@@ -1,6 +1,6 @@
 <Response>
     <Start>
-        <Stream url="wss://http://127.0.0.1:5000" />
+        <Stream url="wss://http://127.0.0.1:5000/recieve_audio" />
     </Start>
     <Say>Welcome to the speech-to-text service. Please start speaking.</Say>
 </Response>
