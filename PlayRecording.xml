@@ -1,6 +1,6 @@
 <Response>
     <Start>
-        <Stream url="ws://localhost:8765/recieve_audio" />
+        <Stream url="https://d7df-122-169-118-12.ngrok-free.app5/recieve_audio" />
     </Start>
     <Say>Welcome to the speech-to-text service. Please start speaking.</Say>
 </Response>
